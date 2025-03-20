@@ -1,5 +1,6 @@
 myenv/
 credenciales/
+data/
 
 
 .env

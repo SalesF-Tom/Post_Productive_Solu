@@ -1,7 +1,8 @@
 myenv/
-credenciales/
 data/
 .vscode
+
+data-warehouse-311917-73a0792225c7.json
 
 
 .env

@@ -1,6 +1,7 @@
 myenv/
 credenciales/
 data/
+.vscode
 
 
 .env

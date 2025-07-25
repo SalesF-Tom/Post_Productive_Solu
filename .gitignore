@@ -15,3 +15,4 @@ test_tomas.py
 utils/create_custom_field
 utils/upsert_entitlement.py
 utils/verify_entitlement.py
+utils/create_custom_field.py

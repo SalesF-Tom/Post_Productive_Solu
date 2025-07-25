@@ -12,3 +12,6 @@ data-warehouse-311917-73a0792225c7.json
 notas.txt
 
 test_tomas.py
+utils/create_custom_field
+utils/upsert_entitlement.py
+utils/verify_entitlement.py

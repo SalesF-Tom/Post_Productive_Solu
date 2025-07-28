@@ -14,4 +14,3 @@ notas.txt
 test_tomas.py
 utils/upsert_entitlement.py
 utils/verify_entitlement.py
-utils/create_custom_field.py
